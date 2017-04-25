@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JJMVPDemo</string>
+    <string name="main_name">人民的名义</string>
+
+    <string-array name="menu_array">
+        <item>我的相册</item>
+        <item>我的收藏</item>
+        <item>我的文件</item>
+        <item>我的日程</item>
+        <item>个性装扮</item>
+    </string-array>
+</resources>
