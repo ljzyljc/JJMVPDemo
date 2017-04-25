@@ -38,6 +38,8 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         drawer_layout= (DrawerLayout) findViewById(R.id.drawer_layout);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        //我的更新
+
 
         //设置沉浸式状态栏
 //        StatusBarUtil.setColorForDrawerLayout(MainActivity.this, drawer_layout, getResources().getColor(R.color.main_line_color));
